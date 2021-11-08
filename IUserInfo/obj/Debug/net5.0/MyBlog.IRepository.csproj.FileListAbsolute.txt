@@ -1,0 +1,15 @@
+D:\VS2019\Excel-Import\IUserInfo\bin\Debug\net5.0\MyBlog.IRepository.deps.json
+D:\VS2019\Excel-Import\IUserInfo\bin\Debug\net5.0\MyBlog.IRepository.dll
+D:\VS2019\Excel-Import\IUserInfo\bin\Debug\net5.0\ref\MyBlog.IRepository.dll
+D:\VS2019\Excel-Import\IUserInfo\bin\Debug\net5.0\MyBlog.IRepository.pdb
+D:\VS2019\Excel-Import\IUserInfo\bin\Debug\net5.0\YY_Model.dll
+D:\VS2019\Excel-Import\IUserInfo\bin\Debug\net5.0\YY_Model.pdb
+D:\VS2019\Excel-Import\IUserInfo\obj\Debug\net5.0\MyBlog.IRepository.csproj.AssemblyReference.cache
+D:\VS2019\Excel-Import\IUserInfo\obj\Debug\net5.0\MyBlog.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2019\Excel-Import\IUserInfo\obj\Debug\net5.0\MyBlog.IRepository.AssemblyInfoInputs.cache
+D:\VS2019\Excel-Import\IUserInfo\obj\Debug\net5.0\MyBlog.IRepository.AssemblyInfo.cs
+D:\VS2019\Excel-Import\IUserInfo\obj\Debug\net5.0\MyBlog.IRepository.csproj.CoreCompileInputs.cache
+D:\VS2019\Excel-Import\IUserInfo\obj\Debug\net5.0\MyBlog.IRepository.csproj.CopyComplete
+D:\VS2019\Excel-Import\IUserInfo\obj\Debug\net5.0\MyBlog.IRepository.dll
+D:\VS2019\Excel-Import\IUserInfo\obj\Debug\net5.0\ref\MyBlog.IRepository.dll
+D:\VS2019\Excel-Import\IUserInfo\obj\Debug\net5.0\MyBlog.IRepository.pdb

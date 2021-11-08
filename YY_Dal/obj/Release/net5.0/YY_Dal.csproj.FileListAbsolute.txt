@@ -1,0 +1,15 @@
+D:\VS2019\Excel-Import\YY_Dal\bin\Release\net5.0\YY_Dal.deps.json
+D:\VS2019\Excel-Import\YY_Dal\bin\Release\net5.0\YY_Dal.dll
+D:\VS2019\Excel-Import\YY_Dal\bin\Release\net5.0\ref\YY_Dal.dll
+D:\VS2019\Excel-Import\YY_Dal\bin\Release\net5.0\YY_Dal.pdb
+D:\VS2019\Excel-Import\YY_Dal\bin\Release\net5.0\YY_Model.dll
+D:\VS2019\Excel-Import\YY_Dal\bin\Release\net5.0\YY_Model.pdb
+D:\VS2019\Excel-Import\YY_Dal\obj\Release\net5.0\YY_Dal.csproj.AssemblyReference.cache
+D:\VS2019\Excel-Import\YY_Dal\obj\Release\net5.0\YY_Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2019\Excel-Import\YY_Dal\obj\Release\net5.0\YY_Dal.AssemblyInfoInputs.cache
+D:\VS2019\Excel-Import\YY_Dal\obj\Release\net5.0\YY_Dal.AssemblyInfo.cs
+D:\VS2019\Excel-Import\YY_Dal\obj\Release\net5.0\YY_Dal.csproj.CoreCompileInputs.cache
+D:\VS2019\Excel-Import\YY_Dal\obj\Release\net5.0\YY_Dal.csproj.CopyComplete
+D:\VS2019\Excel-Import\YY_Dal\obj\Release\net5.0\YY_Dal.dll
+D:\VS2019\Excel-Import\YY_Dal\obj\Release\net5.0\ref\YY_Dal.dll
+D:\VS2019\Excel-Import\YY_Dal\obj\Release\net5.0\YY_Dal.pdb

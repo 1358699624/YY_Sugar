@@ -1,0 +1,17 @@
+D:\VS2019\Excel-Import\MyBlog.IService\bin\Debug\net5.0\MyBlog.IService.deps.json
+D:\VS2019\Excel-Import\MyBlog.IService\bin\Debug\net5.0\MyBlog.IService.dll
+D:\VS2019\Excel-Import\MyBlog.IService\bin\Debug\net5.0\ref\MyBlog.IService.dll
+D:\VS2019\Excel-Import\MyBlog.IService\bin\Debug\net5.0\MyBlog.IService.pdb
+D:\VS2019\Excel-Import\MyBlog.IService\bin\Debug\net5.0\MyBlog.IRepository.dll
+D:\VS2019\Excel-Import\MyBlog.IService\bin\Debug\net5.0\YY_Model.dll
+D:\VS2019\Excel-Import\MyBlog.IService\bin\Debug\net5.0\MyBlog.IRepository.pdb
+D:\VS2019\Excel-Import\MyBlog.IService\bin\Debug\net5.0\YY_Model.pdb
+D:\VS2019\Excel-Import\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.csproj.AssemblyReference.cache
+D:\VS2019\Excel-Import\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2019\Excel-Import\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.AssemblyInfoInputs.cache
+D:\VS2019\Excel-Import\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.AssemblyInfo.cs
+D:\VS2019\Excel-Import\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.csproj.CoreCompileInputs.cache
+D:\VS2019\Excel-Import\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.csproj.CopyComplete
+D:\VS2019\Excel-Import\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.dll
+D:\VS2019\Excel-Import\MyBlog.IService\obj\Debug\net5.0\ref\MyBlog.IService.dll
+D:\VS2019\Excel-Import\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.pdb

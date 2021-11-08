@@ -1,0 +1,5 @@
+D:\VS2019\Excel-Import\Myblog.Repository\obj\Debug\net5.0\Myblog.Repository.csproj.AssemblyReference.cache
+D:\VS2019\Excel-Import\Myblog.Repository\obj\Debug\net5.0\Myblog.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2019\Excel-Import\Myblog.Repository\obj\Debug\net5.0\Myblog.Repository.AssemblyInfoInputs.cache
+D:\VS2019\Excel-Import\Myblog.Repository\obj\Debug\net5.0\Myblog.Repository.AssemblyInfo.cs
+D:\VS2019\Excel-Import\Myblog.Repository\obj\Debug\net5.0\Myblog.Repository.csproj.CoreCompileInputs.cache
